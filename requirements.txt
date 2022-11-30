@@ -1,0 +1,12 @@
+keras==2.6.0
+keras-tuner==1.1.2
+matplotlib==3.5.2
+scikit-learn==1.0.2
+seaborn==0.11.2
+solar-data-tools==0.5.4
+statsmodels @ git+https://github.com/statsmodels/statsmodels@09a89a3b11445e6221eba87a1f86a6789a725be2
+pandas==1.4.2
+pv-system-profiler==0.1.4
+tensorflow==2.6.0
+joblib==1.2.0
+
